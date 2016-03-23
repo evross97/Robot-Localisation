@@ -1,12 +1,1 @@
-So far.....
-
-I have implemented the action and sensor model, and the main class to repeatedly call them.
-
-Both models are currently perfect ones, i.e. they assume there is no error in the sensor or the robot's movement - This is still to do.
-
-The probabilities are not yet set correctly, I just increase/decrease the probability by a 
-certain value and then redistribute the entire map at the end - I will be doing this next week.
-
-I don't yet have a way to test the code, as I don't have the map, however the code compiles - bug fixing will also be in the following weeks.
-
-I have also copied and pasted George's map code in order to use some of his methods.
+Completed perfect models. This is the code that I created that has been edited in order to be more helpful in the team assignment.
